@@ -17,8 +17,8 @@ Research testing of registration and authorization forms.
 
 ## Структура репозитория
 *   `1_Test_Strategy_&_Plan/` - Подход и план тестирования.
-*   `2_Checklists/` - Чек-листы для регрессионной проверки.
-*   `3_Test_Cases/` - Детальные тест-кейсы.
-*   `4_Bug_Reports/` - Заведенные баг-репорты.
+*   `2_Checklists/` - Чек-листы.
+*   `3_Test_Cases/` - Тест-кейсы.
+*   `4_Bug_Reports/` - Баг-репорты.
 *   `5_Test_Data/` - Наборы тестовых данных.
 *   `6_Conclusions_&_Report/` - Итоговый отчет.
